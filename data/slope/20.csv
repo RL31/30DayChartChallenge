@@ -1,0 +1,48 @@
+Longitude	Latitude	Elevation	Distance	CostPerKm	ElevCost	TurnCost	NodeCost	InitialCost	WayTags	NodeTags
+2387706	48862971	65	13	3050	0	0	0	0	reversedirection=yes highway=primary surface=asphalt cycleway=track oneway=no	highway=crossing crossing=unknown
+2388527	48863151	68	65	3050	0	0	0	0	reversedirection=yes highway=primary surface=asphalt cycleway=track oneway=no	highway=crossing crossing=unknown
+2388568	48863160	68	4	3050	0	0	0	0	reversedirection=yes highway=primary surface=asphalt cycleway=track oneway=no	
+2395547	48864966	94	561	1050	0	64	0	0	highway=cycleway cycleway=unknown oneway=no	
+2395658	48864987	94	4	3050	0	48	0	0	reversedirection=yes highway=primary surface=asphalt oneway=no	
+2395547	48864966	94	4	3050	0	0	0	0	highway=primary surface=asphalt oneway=no	
+2395598	48864923	94	7	1150	0	123	0	0	highway=residential surface=asphalt cycleway=opposite oneway=yes oneway:bicycle=no	
+2398102	48864882	95	188	1050	0	53	0	0	highway=cycleway cycleway=unknown oneway=no	
+2398277	48864676	95	29	1050	0	70	0	0	reversedirection=yes highway=cycleway oneway=no	
+2398437	48864795	95	18	1150	0	90	0	0	highway=living_street surface=asphalt	
+2398516	48865015	95	46	3050	0	78	0	0	highway=primary surface=asphalt oneway=yes junction=circular	
+2398567	48865005	95	2	53050	0	0	0	0	reversedirection=yes highway=primary surface=asphalt oneway=yes junction=circular	
+2398790	48865257	96	34	1650	0	66	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=crossing crossing=traffic_signals
+2398810	48865282	96	4	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=traffic_signals
+2398983	48865495	97	28	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=crossing crossing=uncontrolled
+2399548	48866148	97	86	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=crossing crossing=uncontrolled
+2399791	48866432	97	38	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=crossing crossing=uncontrolled
+2399884	48866540	97	14	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=traffic_signals
+2399935	48866605	97	9	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=crossing crossing=traffic_signals
+2401421	48868306	106	222	1650	0	0	0	0	highway=secondary surface=asphalt oneway=yes oneway:bicycle=no	highway=traffic_signals
+2401512	48868409	107	14	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=traffic_signals
+2402326	48869328	112	120	1650	0	0	0	0	highway=secondary surface=asphalt	
+2402561	48869597	111	35	1650	0	0	0	0	highway=secondary surface=asphalt cycleway=no	highway=crossing crossing=unknown
+2402639	48869690	111	13	1650	0	0	0	0	highway=secondary surface=asphalt cycleway=no	
+2402804	48869877	111	25	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=unknown
+2403855	48871084	112	156	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=traffic_signals
+2403962	48871210	113	17	1650	0	0	0	0	highway=secondary surface=asphalt	highway=traffic_signals
+2404201	48871492	114	37	1650	0	0	0	0	highway=secondary surface=asphalt	highway=traffic_signals traffic_signals:direction=forward
+2404225	48871524	114	4	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=traffic_signals
+2404457	48871934	116	51	1650	0	1	0	0	highway=secondary surface=asphalt	highway=traffic_signals traffic_signals:direction=forward
+2404465	48871958	116	3	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=traffic_signals
+2404529	48872121	116	20	1650	0	0	0	0	highway=secondary surface=asphalt	highway=traffic_signals traffic_signals:direction=backward
+2404883	48872988	119	101	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=uncontrolled
+2405306	48874016	122	121	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=unknown
+2405652	48874851	122	97	1650	0	0	0	0	highway=secondary surface=asphalt	highway=crossing crossing=traffic_signals
+2405688	48874938	122	11	1650	0	0	0	0	highway=secondary surface=asphalt	
+2405549	48874918	122	11	1150	0	131	0	0	highway=residential surface=asphalt cycleway=opposite oneway=yes oneway:bicycle=no	highway=crossing crossing=uncontrolled
+2403937	48874633	123	124	1150	0	0	0	0	highway=residential surface=asphalt cycleway=opposite oneway=yes oneway:bicycle=no	highway=crossing crossing=unknown
+2403264	48874511	123	52	1150	0	0	0	0	highway=residential surface=asphalt cycleway=opposite oneway=yes oneway:bicycle=no	highway=crossing crossing=zebra
+2403172	48874494	123	8	1150	0	0	0	0	highway=residential surface=asphalt cycleway=opposite oneway=yes oneway:bicycle=no	
+2403132	48874581	123	11	1450	0	87	0	0	reversedirection=yes highway=tertiary surface=asphalt	highway=crossing crossing=zebra
+2402823	48875326	123	86	1450	0	0	0	0	reversedirection=yes highway=tertiary surface=asphalt	highway=crossing crossing=zebra
+2402575	48875903	121	68	1450	0	0	0	0	reversedirection=yes highway=tertiary surface=asphalt	highway=crossing crossing=zebra
+2402539	48875986	120	10	1450	0	0	0	0	reversedirection=yes highway=tertiary surface=asphalt	highway=traffic_signals
+2402444	48875975	120	8	1650	0	80	0	0	highway=secondary surface=asphalt	highway=crossing crossing=traffic_signals
+2401978	48875919	122	35	1650	0	0	0	0	highway=secondary surface=asphalt	
+2401916	48876025	121	11	1350	0	73	0	0	highway=service oneway=yes	
