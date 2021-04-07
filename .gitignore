@@ -7,3 +7,7 @@ img/abstract.jpeg
 img/abstract_ggfx.jpeg
 R/animals.R
 R/abstract.R
+data/circle/DC_2018_det.csv
+data/circle/DC_2019_det.csv
+data/circle/DC_20202021_det.csv
+R/circle.R
