@@ -21,3 +21,6 @@ Day 5 - Slope
 
 Day 7 - Physical
 ![sucs](https://github.com/RL31/30DayChartChallenge/blob/d5d711b07040e61dedacb6ce7e402f4516e3fd78/img/physical.png)
+
+Day 8 - Animals
+![animals](https://github.com/RL31/30DayChartChallenge/blob/3fd1f124f6b533d22e87c083154ecc8f18f1a573/img/animals.jpg)
