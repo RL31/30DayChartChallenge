@@ -26,4 +26,4 @@ Day 8 - Animals
 ![animals](https://github.com/RL31/30DayChartChallenge/blob/3fd1f124f6b533d22e87c083154ecc8f18f1a573/img/animals.jpg)
 
 Day 10 - Abstract
-![abstract]()
+![abstract](https://github.com/RL31/30DayChartChallenge/blob/756dd38af76fc823f9e312e0667d59d7e3d776a7/img/abstract.jpg)
