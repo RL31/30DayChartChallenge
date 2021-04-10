@@ -68,4 +68,4 @@ ggplot(base,aes(x=heure,y=1,fill=pct))+
   )
 
 ggsave(paste0(here::here("30DayChartChallenge","img"),"/animals.jpg"),
-       width=20,height=15,units = "cm")
+       dpi=150,width=20,height=15,units = "cm")
