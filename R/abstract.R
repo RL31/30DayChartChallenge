@@ -5,9 +5,9 @@ loadfonts(device="win")
 
 oignons <- read.csv(paste0(here::here("30DayChartChallenge","data","abstract"),"/oignons.csv"))
 
-cercles <- tibble(x=c(47,47,47,47,47,47,47),
-                  y=c(1,1,1,1,1,1,1),
-                  size=c(1,2,3,4,5,6,7))
+# cercles <- tibble(x=c(47,47,47,47,47,47,47),
+#                   y=c(1,1,1,1,1,1,1),
+#                   size=c(1,2,3,4,5,6,7))
 
 oignons %>% 
   ggplot()+
