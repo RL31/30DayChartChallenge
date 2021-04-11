@@ -1,8 +1,6 @@
 data/circle/DC_2018_det.csv
 data/circle/DC_2019_det.csv
 data/circle/DC_20202021_det.csv
-R/circle.R
 data/stripes/ALADIN63_Historical.txt
 data/stripes/ALADIN63_rcp8.5.txt
-img/sismogramme.gif
 R/stripes.R
