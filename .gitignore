@@ -1,6 +1,11 @@
 data/circle/DC_2018_det.csv
 data/circle/DC_2019_det.csv
 data/circle/DC_20202021_det.csv
-data/stripes/ALADIN63_Historical.txt
-data/stripes/ALADIN63_rcp8.5.txt
-R/stripes.R
+
+data/globalchange/ALADIN63_Historical.txt
+data/globalchange/ALADIN63_rcp8.5.txt
+data/globalchange/ALADIN63_Historical_4062.txt
+data/globalchange/ALADIN63_rcp8.5_4062.txt
+data/ircom/ircom_2018_revenus_2017.xls
+data/ircom/ircom_2018_revenus_2017.zip
+R/globalchange.R

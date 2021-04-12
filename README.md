@@ -28,5 +28,8 @@ Day 8 - Animals
 Day 10 - Abstract
 ![abstract](https://github.com/RL31/30DayChartChallenge/blob/756dd38af76fc823f9e312e0667d59d7e3d776a7/img/abstract.jpg)
 
-Day 11 - Circle
+Day 11 - Circular
 ![circle](https://github.com/RL31/30DayChartChallenge/blob/79166399cc6a5b6c2011e9f9fc7bedecb1efadff/img/sismogramme.gif)
+
+Day 12 - Strips
+![strips]()
