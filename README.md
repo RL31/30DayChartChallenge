@@ -32,4 +32,4 @@ Day 11 - Circular
 ![circle](https://github.com/RL31/30DayChartChallenge/blob/79166399cc6a5b6c2011e9f9fc7bedecb1efadff/img/sismogramme.gif)
 
 Day 12 - Strips
-![strips]()
+![strips](https://github.com/RL31/30DayChartChallenge/blob/effc7524eb28c3e0e9b2f31ea3ddc103da696673/img/strips.jpg)
