@@ -19,6 +19,8 @@ Day 4 - Magical
 Day 5 - Slope
 ![Gambetta-vs-Belleville](https://github.com/RL31/30DayChartChallenge/blob/7fe0408031680655d7a3e66272a9930205361d2a/img/slope.gif)
 
+Theme 2 - Distributions
+
 Day 7 - Physical
 ![sucs](https://github.com/RL31/30DayChartChallenge/blob/d5d711b07040e61dedacb6ce7e402f4516e3fd78/img/physical.png)
 
@@ -33,3 +35,13 @@ Day 11 - Circular
 
 Day 12 - Strips
 ![strips](https://github.com/RL31/30DayChartChallenge/blob/effc7524eb28c3e0e9b2f31ea3ddc103da696673/img/strips.jpg)
+
+Theme 3 - Relationships
+
+Day 13 - Correlation
+![correlation]()
+
+Theme 19 - Timeseries
+
+Day 19 - Global change
+![globalchange]()
