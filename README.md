@@ -39,9 +39,9 @@ Day 12 - Strips
 Theme 3 - Relationships
 
 Day 13 - Correlation
-![correlation]()
+![correlation](https://github.com/RL31/30DayChartChallenge/blob/3fb2ef6d396d6f5cf90e64f2a431850c203ba395/img/correlation.jpg)
 
 Theme 19 - Timeseries
 
 Day 19 - Global change
-![globalchange]()
+![globalchange](https://github.com/RL31/30DayChartChallenge/blob/3fb2ef6d396d6f5cf90e64f2a431850c203ba395/img/globalchange.jpg)
